@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(247, 241, 233);
+}
+
+h1 {
+    color: green;
+    font-weight: bold;
+}
+
+.navbar {
+    border-radius: 7px;
+    background-color: rgb(76, 76, 243);
+    color: red;
+}
+
+.navbar a{
+    color: white;
+    font-weight: bolder;
+}
+
+.container-md {
+    display: flex;
+    gap: 10px;
+}
+
+.container-sm {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+    font-weight: bold;
+}
+
+.form-control {
+    width: 500px;
+}
+
+.form {
+    border: 0.3px solid rgb(36, 35, 35);
+    border-radius: 7px;
+    padding: 7px;
+    max-height: min-content;
+    
+}
+
+#main-doctors-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+
+#doctor-container {
+    border: 0.3px solid rgb(36, 35, 35);
+    border-radius: 7px;
+    padding: 7px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+#extra-button-container {
+    display: flex;
+    margin-left: 11px;
+    gap: 5px;
+}
+
+h3 {
+    font-weight: bold;
+}
