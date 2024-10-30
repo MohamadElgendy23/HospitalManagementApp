@@ -61,6 +61,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     margin-bottom: 15px;
+    background-color: rgb(208, 172, 241);
 }
 
 #extra-button-container {
