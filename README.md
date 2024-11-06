@@ -6,4 +6,4 @@ Get Started:
 
 Run npm start in the frontend folder to get the client up and running on localhost in the browser. You can then view the UI livetime :)
 
-Run npm start in the backend folder to get the server up and running listening on port <port>. It will then listen to incoming client requests and feed data from the MongoDB database. 
+Run npm start in the backend folder to get the server up and running listening on port <port>. It will then listen to incoming client requests and feed data from the MongoDB database! :)
